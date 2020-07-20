@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+sveiki
+
+dabar yra 2020-07-21
+
